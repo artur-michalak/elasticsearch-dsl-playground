@@ -1,4 +1,4 @@
-﻿wheel==0.38.1
+wheel==0.46.2
 pytz==2020.1
 
 elasticsearch-dsl==7.2.0
