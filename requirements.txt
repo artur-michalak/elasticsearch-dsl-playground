@@ -4,7 +4,7 @@ pytz==2020.1
 elasticsearch-dsl==7.2.0
 elasticsearch==7.7.0
 
-pytest==5.4.2
+pytest==9.0.3
 pytest-cov==2.9.0
 python-coveralls==2.9.3
 yapf==0.30.0
